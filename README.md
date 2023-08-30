@@ -71,3 +71,4 @@ From a business perspective, predicting high traffic as low traffic poses a grav
 Through this analysis, we identified categories that consistently generate high or low traffic. "Vegetable," "Potato," and "Pork" categories consistently yield high traffic, recommending their constant presence on the website. Conversely, the "Beverages" category tends to result in low traffic, advising its omission.
 
 To encapsulate, our journey encompassed data preprocessing, analysis, and model development, culminating in the realization that the Logistic Regression model best addresses our objectives. This model emerges as the optimal choice for predicting high traffic recipes with 80% accuracy. Moreover, our introduced KPI provides a benchmark for assessing model performance in a business context, while insights about category traffic can guide content offerings.
+
